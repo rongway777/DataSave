@@ -19,7 +19,7 @@ import java.io.IOException;
 public class ExternalActivity extends AppCompatActivity {
 
     private static final String TAG = "ExternalActivity";
-    
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
